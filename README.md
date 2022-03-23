@@ -4,13 +4,13 @@
 
 ## Features
 
-* Random inputs for Name, Surname, Phone-Number✏️
+* Random inputs for Name, Surname, Phone-Number ✏️
 * Save Account details after Creation in .cvs file 🧾
 * Full Auto Account Creation 🤖
 
 ## Getting Started
 
-This script can create yoox Free Mail Accounts with the usage of proxies.
+This script can create yoox Accounts with the usage of proxies.
 
 ### Support 👨‍💻
 
