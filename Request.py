@@ -155,7 +155,6 @@ def get_session(country,firstName,lastName,email_Input,password_Input,num_accoun
             print(f'\033[92m [{datetime.datetime.now().time()}] Proxy: {proxy} \033[0m')
 
             url = f'https://www.yoox.com/{country}/myoox/register?'
-            #url = 'https://whatismyipaddress.com/'
             browser.get(url)
             
             # First and Last name pick
